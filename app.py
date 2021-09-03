@@ -12,9 +12,8 @@ for herf in elifba:
   if say > 1:
     print (herf,say)
 
-# 3
+#№ 3
 str='Proqramalaşdırma nə qədər çox şey bildiyinizlə yox, bildiyinizlə ortaya çıxardığınız işlərlə maraqlanır'
-
 # 4
 str='Proqramalaşdırma nə qədər çox şey bildiyinizlə yox, bildiyinizlə ortaya çıxardığınız işlərlə maraqlanır'
 saitler=set("aıoueəiöüAIOUEƏİÖÜ")
